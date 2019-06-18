@@ -171,6 +171,4 @@ If you finish early try writing tests for (and handling) edge-cases (what happen
 
 ## Pairing
 
-For this task, we recommend that you use the [ping pong](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-1/pair-programming.md) pairing method.
-
 One student starts by creating a single failing test and then the other writes code to make the test pass. When the test is passing the second student writes another failing test for the first to complete. Keep swapping roles until you complete the task.
